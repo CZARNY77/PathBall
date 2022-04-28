@@ -5,7 +5,7 @@ This game is my first even playable project.
 The project is not finished, you can add a lot of things to it, but I want to deal with other projects that are on my mind.:satisfied:
 
 ## Game mechanic
-The mechanics of the game is to move the ball along the paths. The goal of the game is to push the ball into the opponent's goal.
+The mechanics of the game is to move the ball along the paths. The goal of the game is to push the ball into the opponent's goal.<br>
 <img src="images/menu.png" alt="img_1" width="500px"><br>
 
 You may only push the ball once after each path. So active path are white and inactive tracks are black.
